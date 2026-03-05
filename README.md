@@ -9,7 +9,7 @@ Actions.
 
 </a>
 
-> NOTE: This repository is my fork of the repo [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work.
+> NOTE: This repository is my fork of the repo [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent). 
 
 ## ⚠️ Disclaimer
 
